@@ -121,7 +121,7 @@ p{
   display: inline-block;
   border: 3px solid white;
   border-radius: 50%;
-  position: relative;
+  position: fixed;
   display: flex;
   align-items: center;
   justify-content: center;
