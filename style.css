@@ -78,7 +78,7 @@ p{
 }
 
 #header .nav-list ul.active{
-  left: 0;
+  left: 0px;
 }
 
 #header .nav-list ul a{
